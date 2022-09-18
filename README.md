@@ -4,7 +4,7 @@
 
 ## Installation :
 
-1) git clone https://github.com/Bhai4You/Termux-Banner
+1) git clone https://github.com/Mr-hacktivist01/hackti-t-banner
 
 
 2) cd Termux-Banner
